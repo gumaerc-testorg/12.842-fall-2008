@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 568ff6c9-1b29-0c00-291d-e56cf8c398d5
 ---
@@ -35,7 +38,7 @@ Other Possibilities (Not Intended to Restrict Your Choice)
 *   Carbon dioxide and climate
 *   Evidence of glacial cycles over earth history
 *   Relation of continental configuration to inferred climate state
-*   Long-term (102\-104 yr) variability of ENSO
+*   Long-term (10{{< sup "2" >}}\-10{{< sup "4" >}} yr) variability of ENSO
 *   Global heat budget
 *   Climate change under a cometary impact (Nuclear Winter, etc.)
 *   The snowball earth hypothesis and problems

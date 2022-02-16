@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 73372a19-013b-5132-dcf7-69dcc475dcfa
 ---
@@ -101,7 +104,7 @@ Kasting, J. F. "[Earth's Early Atmosphere](http://www.sciencemag.org/cgi/content
 
 Holland, H. D. "[Evidence for Life on Earth more than 3850 Million Years Ago](http://sciencemag.org/cgi/content/summary/275/5296/38)." _Science_ 275 (1997): 38-39.
 
-Owen, T., R. D. Cess, and V. Ramanathan. "[Enhanced CO2 Greenhouse to Compensate for Reduced Solar Luminosity on Early Earth](http://www.nature.com/nature/journal/v277/n5698/abs/277640a0.html)." _Nature_ 277 (1979): 640-642.
+Owen, T., R. D. Cess, and V. Ramanathan. "[Enhanced CO{{< sub "2" >}} Greenhouse to Compensate for Reduced Solar Luminosity on Early Earth](http://www.nature.com/nature/journal/v277/n5698/abs/277640a0.html)." _Nature_ 277 (1979): 640-642.
 
 Walker, J. C. G., P. B. Hays, and J. F. Kasting. "[A Negative Feedback Mechanism for the Long-term Stabilization of Earth's Surface Temperature](https://www.researchgate.net/publication/23917755_A_Negative_feedback_mechanism_for_the_long-term_stabilization_of_Earths_surface-temperature)." _J Geophys Res_ 86, no. C10 (1981): 9776-9782.
 
@@ -209,30 +212,30 @@ Meert, J., and R. van der Voo. "[The Neoproterozoic (1000-540 Ma) Glacial Interv
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-CO2\-climate connection
+CO{{< sub "2" >}}\-climate connection
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 **_Assigned readings_**
 
-Veizer, J., Y. Godderis, and L. M. Francois. "[Evidence for Decoupling of Atmospheric CO2 and Global Climate during the Phanerozoic Eon](http://www.nature.com/nature/journal/v408/n6813/abs/408698a0.html)." _Nature_ 408 (2000): 698-701.
+Veizer, J., Y. Godderis, and L. M. Francois. "[Evidence for Decoupling of Atmospheric CO{{< sub "2" >}} and Global Climate during the Phanerozoic Eon](http://www.nature.com/nature/journal/v408/n6813/abs/408698a0.html)." _Nature_ 408 (2000): 698-701.
 
-> _Questions CO2\-climate link b/c Phanerozoic tropical SST record doesn't agree with simple energy balance model results driven by paleo-CO2 proxy data_.
+> _Questions CO{{< sub "2" >}}\-climate link b/c Phanerozoic tropical SST record doesn't agree with simple energy balance model results driven by paleo-CO{{< sub "2" >}} proxy data_.
 
 Kump, L. R. "[What Drives Climate?](http://dx.doi.org/10.1038/35047188)" _Nature_ 408 (2000): 651-652.
 
-> _Skeptical of Veizer results; questions SST proxy record and paleo-CO2 proxy record_.
+> _Skeptical of Veizer results; questions SST proxy record and paleo-CO{{< sub "2" >}} proxy record_.
 
 Rothman, D. H. "[Atmospheric Carbon Dioxide Levels for the Last 500 million Years](http://www.pnas.org/content/99/7/4167.full)." _Proceedings of the National Academy of Sciences_ 99, no. 7 (2002): 4167-4171.
 
-Berner, R. A. "[The Rise of Plants and their Effect on Weathering and Atmospheric CO2](http://www.sciencemag.org/cgi/content/summary/276/5312/544)." _Science_ 276 (1997): 544-547.
+Berner, R. A. "[The Rise of Plants and their Effect on Weathering and Atmospheric CO{{< sub "2" >}}](http://www.sciencemag.org/cgi/content/summary/276/5312/544)." _Science_ 276 (1997): 544-547.
 
-> _Suggests evolution of rooted vascular plants caused Devonian (~400 Ma) CO2 draw down by enhancing chemical weathering rates. Supports CO2\-climate link through Phanerozoic. Exception is Late Ordovician glaciation, explained by "unique paleogeographic circumstances"_.
+> _Suggests evolution of rooted vascular plants caused Devonian (~400 Ma) CO{{< sub "2" >}} draw down by enhancing chemical weathering rates. Supports CO{{< sub "2" >}}\-climate link through Phanerozoic. Exception is Late Ordovician glaciation, explained by "unique paleogeographic circumstances"_.
 
-Royer, D. L., R. A. Bemer, and D. J. Beerling. "[Phanerozoic Atmospheric CO2 Change: Evaluating Geochemical and Paleobiological Approaches](http://dx.doi.org/10.1016/S0014-2921(01)00199-4)." _Earth-Science Reviews_ 54 (2001): 349-392.
+Royer, D. L., R. A. Bemer, and D. J. Beerling. "[Phanerozoic Atmospheric CO{{< sub "2" >}} Change: Evaluating Geochemical and Paleobiological Approaches](http://dx.doi.org/10.1016/S0014-2921(01)00199-4)." _Earth-Science Reviews_ 54 (2001): 349-392.
 
-> _Excellent review of paleo-CO2 proxies_.
+> _Excellent review of paleo-CO{{< sub "2" >}} proxies_.
 
 Crowley, T. J. "Carbon Dioxide and Phanerozoic Climate." In _Warm Climates in Earth History_. Edited by B. T. Huber, K. G. MacLeod, and S. L. Wing. Cambridge, UK: Cambridge University Press, 2000, pp. 425-444. ISBN: 9780521641425.
 
@@ -240,27 +243,27 @@ Crowley, T. J. "Carbon Dioxide and Phanerozoic Climate." In _Warm Climates in Ea
 
 Retallack, G. J. "[A 300-million-year Record of Atmospheric Carbon Dioxide from Fossil Plant Cuticles](http://dx.doi.org/10.1038/35077041)." _Nature_ 411 (2001): 287-290.
 
-> _Stomatal indices on fossil leaves during last 300 Myr indicate that the only two periods of low CO2 were associated with known ice ages, in support of the CO2\-climate link_.
+> _Stomatal indices on fossil leaves during last 300 Myr indicate that the only two periods of low CO{{< sub "2" >}} were associated with known ice ages, in support of the CO{{< sub "2" >}}\-climate link_.
 
-Royer, D. L., S. L. Wing, D. J. Beerling, D. W. Jolley, P. L. Koch, L. J. Hickey, and R. A. Berner. "[Paleobotanical Evidence for Near Present-day Levels of Atmospheric CO2 during Part of the Tertiary](http://www.sciencemag.org/cgi/content/abstract/292/5525/2310)." _Science_ 292 (2001): 2310-2313.
+Royer, D. L., S. L. Wing, D. J. Beerling, D. W. Jolley, P. L. Koch, L. J. Hickey, and R. A. Berner. "[Paleobotanical Evidence for Near Present-day Levels of Atmospheric CO{{< sub "2" >}} during Part of the Tertiary](http://www.sciencemag.org/cgi/content/abstract/292/5525/2310)." _Science_ 292 (2001): 2310-2313.
 
-> _Leaf stomatal indices through "known" warm intervals (Miocene 15-17 Ma, and Paleocene/Eocene boundary (53-59 Ma) indicate **low** CO2, refuting CO2\-climate link_.
+> _Leaf stomatal indices through "known" warm intervals (Miocene 15-17 Ma, and Paleocene/Eocene boundary (53-59 Ma) indicate **low** CO{{< sub "2" >}}, refuting CO{{< sub "2" >}}\-climate link_.
 
-Tarner, L. H., J. F. Hubert, B. P. Coffey, and D. P. McInerney. "[Stability of Atmospheric CO2 Levels Across the Triassic/Jurassic Boundary](http://www.readcube.com/articles/10.1038/35079548)." _Nature_ 411 (2001): 675-677.
+Tarner, L. H., J. F. Hubert, B. P. Coffey, and D. P. McInerney. "[Stability of Atmospheric CO{{< sub "2" >}} Levels Across the Triassic/Jurassic Boundary](http://www.readcube.com/articles/10.1038/35079548)." _Nature_ 411 (2001): 675-677.
 
-> _Paleosol δ13C data across Triassic/Jurassic boundary (208 Ma) suggests only small CO2 increase associated w/ that mass extinction. Argue therefore that deposition of larger flood basalts at that time (volcanic events) did not cause high CO2 and runaway greenhouse, as previously hypothesized_.
+> _Paleosol δ{{< sup "13" >}}C data across Triassic/Jurassic boundary (208 Ma) suggests only small CO{{< sub "2" >}} increase associated w/ that mass extinction. Argue therefore that deposition of larger flood basalts at that time (volcanic events) did not cause high CO{{< sub "2" >}} and runaway greenhouse, as previously hypothesized_.
 
 Pagani, M., M. A. Arthur, and K. H. Freeman. "[Miocene Evolution of Atmospheric Carbon Dioxide](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999PA900006)." _Paleoceanography_ 14 (1999): 273-292.
 
-> _Phytoplankton δ13C indicates low CO2 through Miocene warm interval (~14-18 Ma) and no sharp drop associated with the expansion of the East Antarctic Sheet, refuting strong CO2\-climate link_.
+> _Phytoplankton δ{{< sup "13" >}}C indicates low CO{{< sub "2" >}} through Miocene warm interval (~14-18 Ma) and no sharp drop associated with the expansion of the East Antarctic Sheet, refuting strong CO{{< sub "2" >}}\-climate link_.
 
 Berner, R. A. "[Atmospheric Carbon Dioxide Levels over Phanerozoic Time](http://www.sciencemag.org/cgi/content/abstract/249/4975/1382)." _Science_ 249 (1990): 1382-1386.
 
-———. "Paleo-CO2 and Climate." _Nature_ 358, no. 6382 (1992): 114.
+———. "Paleo-CO{{< sub "2" >}} and Climate." _Nature_ 358, no. 6382 (1992): 114.
 
-Freeman, K. H., and J. M. Hayes. "[Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO2 Levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/92GB00190)." _Glob Biogeochem Cycles_ 6, no. 2 (1992): 185-198.
+Freeman, K. H., and J. M. Hayes. "[Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO{{< sub "2" >}} Levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/92GB00190)." _Glob Biogeochem Cycles_ 6, no. 2 (1992): 185-198.
 
-Hayes, J. M., H. Strauss, and A. J. Kaufman. "[The Abundance of 13 C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma](http://dx.doi.org/10.1016/S0009-2541(99)00083-2)." _Chem Geol_ 161 (1999): 103-125.
+Hayes, J. M., H. Strauss, and A. J. Kaufman. "[The Abundance of {{< sup "13" >}} C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma](http://dx.doi.org/10.1016/S0009-2541(99)00083-2)." _Chem Geol_ 161 (1999): 103-125.
 
 Popp, B. N., R. Takigiku, J. M. Hayes, J. W. Louda, and E. W. Baker. "[The Post-Paleozoic Chronology and Mechanisms of 13C Depletion in Primary Marine Organic Matter](http://www.ncbi.nlm.nih.gov/pubmed/11539778)." _Am J Sci_ 289 (1989): 436-454.
 
@@ -283,7 +286,7 @@ Edmond, J. M. "[Himalayan Tectonics, Weathering Processes, and the Strontium Iso
 
 **_Recommended readings_**
 
-McCauley, S., and D. DePaolo. "The Marine 87Sr/86Sr and δ18O Records, Himalayan Alkalinity Fluxes, and Cenozoic Climate Models." In _Tectonic Uplift and Climate Change_. 1st ed. Edited by W. F. Ruddiman. New York, NY: Springer, 1997, pp. 427-467. ISBN: 9780306456428.
+McCauley, S., and D. DePaolo. "The Marine {{< sup "87" >}}Sr/{{< sup "86" >}}Sr and δ{{< sup "18" >}}O Records, Himalayan Alkalinity Fluxes, and Cenozoic Climate Models." In _Tectonic Uplift and Climate Change_. 1st ed. Edited by W. F. Ruddiman. New York, NY: Springer, 1997, pp. 427-467. ISBN: 9780306456428.
 
 Richter, F. M., D. B. Rowley, and D. J. DePaolo. "[Sr Isotope Evolution of Seawater: the Role of Tectonics](http://dx.doi.org/10.1016/0012-821X(92)90070-C)." _Earth Planet Sci Lett_ 109 (1992): 11-23.
 

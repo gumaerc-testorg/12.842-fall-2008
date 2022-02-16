@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 ---
@@ -77,7 +80,7 @@ Long-term climate cycles and the proterozoic glaciations ("Snowball Earth") ([PD
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Climate on geologic time scales and the CO2\-climate connection ([PDF]({{< baseurl >}}/resources/part1_lec6))
+Climate on geologic time scales and the CO{{< sub "2" >}}\-climate connection ([PDF]({{< baseurl >}}/resources/part1_lec6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +188,7 @@ What controls the temperature gradient in middle and high latitudes? ([PDF - 1.0
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Natural and fossil fuel CO2 in the ocean I ([PDF - 2.7 MB]({{< baseurl >}}/resources/part4_lec1))
+Natural and fossil fuel CO{{< sub "2" >}} in the ocean I ([PDF - 2.7 MB]({{< baseurl >}}/resources/part4_lec1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +197,7 @@ Natural and fossil fuel CO2 in the ocean I ([PDF - 2.7 MB]({{< baseurl >}}/resou
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Natural and fossil fuel CO2 in the ocean II ([PDF - 1.0 MB]({{< baseurl >}}/resources/part4_lec2))
+Natural and fossil fuel CO{{< sub "2" >}} in the ocean II ([PDF - 1.0 MB]({{< baseurl >}}/resources/part4_lec2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +206,7 @@ Natural and fossil fuel CO2 in the ocean II ([PDF - 1.0 MB]({{< baseurl >}}/reso
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Changes in CO2 during the past million years ([PDF]({{< baseurl >}}/resources/part4_lec3))
+Changes in CO{{< sub "2" >}} during the past million years ([PDF]({{< baseurl >}}/resources/part4_lec3))
 {{< tdclose >}}
 
 {{< trclose >}}
