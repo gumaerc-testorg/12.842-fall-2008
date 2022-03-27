@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Changes in CO2 During the Past Million Years
 uid: c3adceaa-50db-a097-643e-d9fb9982c24e

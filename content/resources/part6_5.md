@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Heat Transport
 uid: 3cca5ea8-0c63-446e-598c-3ddd2abbce7f

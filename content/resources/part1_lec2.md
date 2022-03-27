@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: The Early Geochemical evolution of the Earth and the Origin of Life
 uid: bb1b1d51-2dd2-1abb-043a-b3d0fcb3018c

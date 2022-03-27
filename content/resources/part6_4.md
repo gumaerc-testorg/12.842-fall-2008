@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Flux of Water
 uid: 889f6dd7-2910-ac45-19f7-065ca853ab2c

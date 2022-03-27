@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: 'Carbon Cycle 1: Summary Outline'
 uid: 81cd692c-72f7-4af0-df0f-6709ea0a5fea

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Long-term Climate Cycles and the Proterozoic Glaciations ("Snowball Earth")
 uid: 0116f509-a890-4315-1809-e11806c9cb23

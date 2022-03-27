@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: 'Atmospheric Chemistry II: Methane'
 uid: f9d96a2f-4847-e27a-30a4-6902322a4466

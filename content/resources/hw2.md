@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 55f49bd6-2250-13bc-0a7e-d02100447f96
 resourcetype: Document
 title: 'Climate Physics and Chemistry '
 uid: 10f45a45-714c-eb4b-38f6-f851f998f50b

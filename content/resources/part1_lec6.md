@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Climate on Geologic Time Scales and the CO2-Climate Connection
 uid: a9608176-ace8-84a4-9b2b-15a940301aad

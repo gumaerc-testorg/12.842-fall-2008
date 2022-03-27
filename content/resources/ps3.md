@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 55f49bd6-2250-13bc-0a7e-d02100447f96
 resourcetype: Document
 title: Ocean Carbon System
 uid: d71ce4e0-ec12-430b-71dd-727017071a48

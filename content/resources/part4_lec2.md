@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6c559ff8-c06a-51cc-8959-a1ef4fd6238f
 resourcetype: Document
 title: Natural and Fossil Fuel CO2 in the Ocean II
 uid: d48c55a1-7b70-a2a4-416c-b02d53a68ffc
