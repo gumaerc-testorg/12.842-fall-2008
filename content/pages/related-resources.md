@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides a link to video of a lecture about a sustainable
+  energy future for the world, titled "The Challenge: Meeting Global Energy Demands
+  Sustainably," by Professor Kerry Emanuel and Professor Ernest J. Moniz.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

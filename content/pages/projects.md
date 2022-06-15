@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of example course projects and prospective
+  project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
