@@ -7,6 +7,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d6a2556fa8dce2918e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: What Controls the Temperature Gradient in Middle and High Latitudes?
 uid: d6a2556f-a8dc-e291-8edf-fe5ea50c698e
 ---
 Lecture presentation on what controls the temperature gradient in middle and high latitudes, eddies, entropy, global climate modeling, forcing, feedbacks, and deterministic versus chaotic dynamics.
-

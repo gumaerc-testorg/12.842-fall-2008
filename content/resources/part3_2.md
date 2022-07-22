@@ -7,6 +7,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/7631ff8846db52c4d7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Atmospheric Chemistry II: Methane'
 uid: 7631ff88-46db-52c4-d746-1be634870fb6
 ---
 Lecture presentation on atmospheric chemistry, green house gases, methane, interactions between air pollution and climate, methane tropospheric chemistry, and runaway methane.
-

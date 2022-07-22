@@ -5,6 +5,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0448706d98dad65739
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Natural and Fossil Fuel CO2 in the Ocean I
 uid: 0448706d-98da-d657-394f-ea38a122000e
 ---
 Lecture presentation on the global carbon system and atmospheric chemistry.
-

@@ -5,6 +5,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/f91889f543a60f827d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ocean and Climate
 uid: f91889f5-43a6-0f82-7d74-f94383c67116
 ---
 Problem set on the ocean and climate.
-

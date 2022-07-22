@@ -8,6 +8,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/ecd9c781ac9e78c1f4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Moist Convection
 uid: ecd9c781-ac9e-78c1-f4dd-5eabf4f3ae98
 ---
 Lecture presentation on moist convection, water variables, saturation specific humidity, phase equilibria, ice nucleation, precipitation formation, stability assessment, the simple radiative-convective model, and the effect of moist convective adjustment on climate sensitivity.
-

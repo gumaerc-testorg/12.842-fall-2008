@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/f68a5cea8d1beb7da2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Heat Transport
 uid: f68a5cea-8d1b-eb7d-a227-6e1d1bc2cde2
 ---
 Lecture presentation on lateral heat transport, atmospheric heat transport, lateral enthalpy transport, and the concept of eddy fluxes.
-

@@ -5,6 +5,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/02ec8ea86631c59e69
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ice Sheet Paleoclimatology
 uid: 02ec8ea8-6631-c59e-6928-08b4a9a39682
 ---
 Lecture presentation on ice sheet paleoclimatology.
-

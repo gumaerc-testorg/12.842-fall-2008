@@ -5,6 +5,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/c9435caff8cce2e464
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Entropy Problem Solutions
 uid: c9435caf-f8cc-e2e4-64dd-fceecbbbc4c7
 ---
 Solutions to a problem set on entropy in a simple model atmosphere.
-

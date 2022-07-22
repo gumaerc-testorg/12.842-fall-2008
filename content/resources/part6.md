@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/07654d5637b932eee3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Notes on the Ocean Circulation for Climate Understanding
 uid: 07654d56-37b9-32ee-e34a-03b3b3de5c9e
 ---
 Lecture presentation with an overview of how the ocean inﬂuences the climate system.
-

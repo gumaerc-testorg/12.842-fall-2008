@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/5c99809ee83e064dea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Atmospheric Chemistry I: Ozone, Chlorofluorocarbons, Nitrogen Oxides, an
 uid: 5c99809e-e83e-064d-ea19-6234b9d602c7
 ---
 Lecture presentation on atmospheric chemistry, ozone, chlorofluorocarbons, nitrogen oxides, dimethyl sulfide, and gas phase chemical kinetics.
-

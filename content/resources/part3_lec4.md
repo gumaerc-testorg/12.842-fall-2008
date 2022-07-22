@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/fc9de3ffc68f9cb5ee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Flux of Water
 uid: fc9de3ff-c68f-9cb5-ee7d-e5b331f926dd
 ---
 Lecture presentation on flux of water by convection and the effects of clouds on radiative transfer.
-

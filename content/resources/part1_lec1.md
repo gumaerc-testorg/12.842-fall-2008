@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/77f01aae40156d66ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Origin of the Earth, Atmosphere and Life
 uid: 77f01aae-4015-6d66-ec7e-09b618e8b39f
 ---
 Lecture presentation on the origin of the elements, galaxies, solar system, and earth.
-

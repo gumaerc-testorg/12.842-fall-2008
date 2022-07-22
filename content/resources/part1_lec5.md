@@ -6,6 +6,7 @@ file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0116f509a890431518
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Long-term Climate Cycles and the Proterozoic Glaciations ("Snowball Earth
 uid: 0116f509-a890-4315-1809-e11806c9cb23
 ---
 Lecture presentation on long-term climate cycles and the proterozoic glaciations ("Snowball Earth").
-
