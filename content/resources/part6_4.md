@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on flux of water by convection and the effects of
   clouds on radiative transfer.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/889f6dd72910ac4519f7065ca853ab2c_part6_4.pdf
+file_size: 1425201
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
