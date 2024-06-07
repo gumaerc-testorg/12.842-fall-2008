@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on paleoclimate, climate on geologic time scales,
   and the CO2-climate connection.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/a9608176ace884a49b2b15a940301aad_part1_lec6.pdf
+file_size: 799106
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
