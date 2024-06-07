@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on time series and random processes in climate.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/04769eb157ce4306066d73b120428dee_part2.pdf
+file_size: 1285311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

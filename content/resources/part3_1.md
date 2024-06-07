@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on atmospheric chemistry, ozone, chlorofluorocarbons,
   nitrogen oxides, dimethyl sulfide, and gas phase chemical kinetics.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/5c99809ee83e064dea196234b9d602c7_part3_1.pdf
+file_size: 688637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

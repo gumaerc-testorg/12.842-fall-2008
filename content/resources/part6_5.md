@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on lateral heat transport, atmospheric heat transport,
   lateral enthalpy transport, and the concept of eddy fluxes.
 file: /courses/12-842-climate-physics-and-chemistry-fall-2008/3cca5ea80c63446e598c3ddd2abbce7f_part6_5.pdf
+file_size: 2399618
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
