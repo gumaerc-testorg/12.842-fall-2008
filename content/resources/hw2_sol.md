@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on entropy in a simple model atmosphere.
-file: /courses/12-842-climate-physics-and-chemistry-fall-2008/c9435caff8cce2e464ddfceecbbbc4c7_hw2_sol.pdf
+file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/c9435caff8cce2e464ddfceecbbbc4c7_hw2_sol.pdf
 file_size: 45788
 file_type: application/pdf
 learning_resource_types:
