@@ -4,7 +4,7 @@ description: Lecture presentation on estimating the penetration of ocean surface
   into the deep ocean, estimating ocean uptake of fossil fuel CO2, estimating ocean
   and biospheric fossil fuel uptake, other methods for observing fossil fuel CO2 uptake,
   and extrapolating fossil fuel into the future.
-file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d48c55a17b70a2a4416cb02d53a68ffc_part4_lec2.pdf
+file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/d48c55a17b70a2a4416cb02d53a68ffc_part4_lec2.pdf
 file_size: 1080246
 file_type: application/pdf
 learning_resource_types:
