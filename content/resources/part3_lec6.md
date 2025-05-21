@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on what controls the temperature gradient in middle
   and high latitudes, eddies, entropy, global climate modeling, forcing, feedbacks,
   and deterministic versus chaotic dynamics.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/d6a2556fa8dce2918edffe5ea50c698e_part3_lec6.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/d6a2556fa8dce2918edffe5ea50c698e_part3_lec6.pdf
 file_size: 1031608
 file_type: application/pdf
 learning_resource_types:
