@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the global carbon system and atmospheric chemistry.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/0448706d98dad657394fea38a122000e_part4_lec1.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0448706d98dad657394fea38a122000e_part4_lec1.pdf
 file_size: 2864784
 file_type: application/pdf
 learning_resource_types:

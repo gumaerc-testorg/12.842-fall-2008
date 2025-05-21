@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on the ocean and climate.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/f91889f543a60f827d74f94383c67116_ps4.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/f91889f543a60f827d74f94383c67116_ps4.pdf
 file_size: 54040
 file_type: application/pdf
 learning_resource_types:

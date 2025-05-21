@@ -4,7 +4,7 @@ description: Lecture presentation on moist convection, water variables, saturati
   specific humidity, phase equilibria, ice nucleation, precipitation formation, stability
   assessment, the simple radiative-convective model, and the effect of moist convective
   adjustment on climate sensitivity.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/bb0b7f41422087b4d679ce6cbe0863bc_part6_3.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/bb0b7f41422087b4d679ce6cbe0863bc_part6_3.pdf
 file_size: 1433470
 file_type: application/pdf
 learning_resource_types:

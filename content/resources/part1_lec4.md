@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on Earth's climate history, the Faint Young Sun
   Paradox, the geochemical carbon cycle, and climate on geologic time scales.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/81562443eb02057a0068b392b70b2226_part1_lec4.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/81562443eb02057a0068b392b70b2226_part1_lec4.pdf
 file_size: 731882
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a homework assignment on the simple radiative equilibrium
   problem.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/0978376598d652ceb69cfbda8007f56e_hw1_sol.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/0978376598d652ceb69cfbda8007f56e_hw1_sol.pdf
 file_size: 122585
 file_type: application/pdf
 learning_resource_types:

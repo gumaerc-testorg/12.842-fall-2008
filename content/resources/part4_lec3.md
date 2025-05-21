@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the ocean carbon system, gases in ice cores,
   and glacial-interglacial CO2 cycles.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/c3adceaa50dba097643ed9fb9982c24e_part4_lec3.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/c3adceaa50dba097643ed9fb9982c24e_part4_lec3.pdf
 file_size: 753325
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the co-evolution of life, ocean-atmospheric chemistry,
   and sedimentary rocks.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/bee8f12af06296675583a8128a28ffd8_part1_lec3.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/bee8f12af06296675583a8128a28ffd8_part1_lec3.pdf
 file_size: 1984273
 file_type: application/pdf
 learning_resource_types:

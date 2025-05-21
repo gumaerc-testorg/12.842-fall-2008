@@ -3,7 +3,7 @@ content_type: resource
 description: Problem set on paleoclimate, nucleosynthesis, the Faint Young Sun Paradox,
   the origin of life, the evolution of atmospheric oxygen, carbon isotope systematics,
   and planetary radiation balance.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/65a06de79ab7bf04d0f1e56a70bcbee7_ps1.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/65a06de79ab7bf04d0f1e56a70bcbee7_ps1.pdf
 file_size: 81937
 file_type: application/pdf
 learning_resource_types:
