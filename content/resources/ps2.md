@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set intended to explore climate sensitivity in a slightly more
   complex version of the multi-level radiative-convective model discussed in class.
-file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/300a639e9950e3e4cc8321312ec1e066_ps2.pdf
+file: /courses/12-842-climate-physics-and-chemistry-fall-2008/300a639e9950e3e4cc8321312ec1e066_ps2.pdf
 file_size: 61218
 file_type: application/pdf
 learning_resource_types:
