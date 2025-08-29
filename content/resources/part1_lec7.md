@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation on Pleistocene ice age cycles, Rayleigh distillation\
   \ of oxygen isotopes, Earth\u2019s orbital geometry, and the Milankovitch hypothesis."
-file: /courses/12-842-climate-physics-and-chemistry-fall-2008/8e5b02657802101803cfb8c0d5055426_part1_lec7.pdf
+file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/8e5b02657802101803cfb8c0d5055426_part1_lec7.pdf
 file_size: 1969526
 file_type: application/pdf
 learning_resource_types:
