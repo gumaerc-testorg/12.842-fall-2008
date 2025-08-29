@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on ice sheet paleoclimatology.
-file: /courses/12-842-climate-physics-and-chemistry-fall-2008/02ec8ea86631c59e692808b4a9a39682_part1_lec8.pdf
+file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/02ec8ea86631c59e692808b4a9a39682_part1_lec8.pdf
 file_size: 748549
 file_type: application/pdf
 learning_resource_types:

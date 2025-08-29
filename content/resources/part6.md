@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation with an overview of how the ocean in\uFB02uences\
   \ the climate system."
-file: /courses/12-842-climate-physics-and-chemistry-fall-2008/07654d5637b932eee34a03b3b3de5c9e_part6.pdf
+file: /ol-ocw-studio-app/courses/12-842-climate-physics-and-chemistry-fall-2008/07654d5637b932eee34a03b3b3de5c9e_part6.pdf
 file_size: 1753515
 file_type: application/pdf
 learning_resource_types:
