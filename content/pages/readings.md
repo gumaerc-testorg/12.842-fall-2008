@@ -100,27 +100,27 @@ Paleoclimate
 
 **_Assigned readings_**
 
-Allegre, C. J., and S. H. Schneider. "{{% resource_link "a96efd6a-505c-4d7e-b6d4-1624eadf0416" "The Evolution of the Earth" %}}." _Scientific American_ (October 1994): 66-75.
+Allegre, C. J., and S. H. Schneider. "[The Evolution of the Earth](https://www.scientificamerican.com/article/evolution-of-earth/)." _Scientific American_ (October 1994): 66-75.
 
-Kasting, J. F. "{{% resource_link "9c85cc16-0241-493a-9ee2-b42cceb6a935" "Earth's Early Atmosphere" %}}." _Science_ 259 (1993): 920-926.
+Kasting, J. F. "[Earth's Early Atmosphere](http://www.sciencemag.org/cgi/content/abstract/259/5097/920)." _Science_ 259 (1993): 920-926.
 
-Holland, H. D. "{{% resource_link "e6199bd4-98be-4df0-bb99-d00a711ba7b0" "Evidence for Life on Earth more than 3850 Million Years Ago" %}}." _Science_ 275 (1997): 38-39.
+Holland, H. D. "[Evidence for Life on Earth more than 3850 Million Years Ago](http://sciencemag.org/cgi/content/summary/275/5296/38)." _Science_ 275 (1997): 38-39.
 
-Owen, T., R. D. Cess, and V. Ramanathan. "{{% resource_link "80e78fd5-8783-4412-984b-9b1a599df683" "Enhanced CO{{< sub \"2\" >}} Greenhouse to Compensate for Reduced Solar Luminosity on Early Earth" %}}." _Nature_ 277 (1979): 640-642.
+Owen, T., R. D. Cess, and V. Ramanathan. "[Enhanced CO{{< sub "2" >}} Greenhouse to Compensate for Reduced Solar Luminosity on Early Earth](http://www.nature.com/nature/journal/v277/n5698/abs/277640a0.html)." _Nature_ 277 (1979): 640-642.
 
-Walker, J. C. G., P. B. Hays, and J. F. Kasting. "{{% resource_link "626aedcc-ba2a-4307-9dac-2aa52a7fb5a7" "A Negative Feedback Mechanism for the Long-term Stabilization of Earth's Surface Temperature" %}}." _J Geophys Res_ 86, no. C10 (1981): 9776-9782.
+Walker, J. C. G., P. B. Hays, and J. F. Kasting. "[A Negative Feedback Mechanism for the Long-term Stabilization of Earth's Surface Temperature](https://www.researchgate.net/publication/23917755_A_Negative_feedback_mechanism_for_the_long-term_stabilization_of_Earths_surface-temperature)." _J Geophys Res_ 86, no. C10 (1981): 9776-9782.
 
 **_Recommended readings_**
 
-Catling, D. C., K. J. Zahnle, and C. P. McKay. "{{% resource_link "dcf5b6ee-ce4c-4457-9ca0-20542929a25d" "Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth" %}}." _Science_ 293 (2001): 839-843.
+Catling, D. C., K. J. Zahnle, and C. P. McKay. "[Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth](http://www.sciencemag.org/cgi/content/abstract/sci;293/5531/839?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=Biogenic+Methane%2C+Hydrogen+Escape%2C+and+the+Irreversible+Oxidation+of+Early+Earth&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)." _Science_ 293 (2001): 839-843.
 
-Holland, H. D. "When did the Earth's Atmosphere become Oxic? A Reply." _Geochem News_ 100 (July 1999): 20-22. ({{% resource_link "08d62718-714c-483a-8cea-3685042f5be8" "PDF" %}})
+Holland, H. D. "When did the Earth's Atmosphere become Oxic? A Reply." _Geochem News_ 100 (July 1999): 20-22. ([PDF](https://pdfs.semanticscholar.org/72d7/33387a3b90f606896e07b6b70705b101e64c.pdf))
 
-Holland, H. D., B. Lazar, and M. McCaffrey. "{{% resource_link "06f5dd72-11d8-477d-8b13-7debb52c2ad5" "Evolution of the Atmosphere and Oceans" %}}." _Nature_ 320 (1986): 27-33.
+Holland, H. D., B. Lazar, and M. McCaffrey. "[Evolution of the Atmosphere and Oceans](http://www.nature.com/nature/journal/v320/n6057/abs/320027a0.html)." _Nature_ 320 (1986): 27-33.
 
-Kasting, J. F., D. H. Eggler, and S. P. Raeburn. "Mantle Redox Evolution and the Oxidation State of the Archean Atmosphere." _J Geol_ 101 (1993): 245-257. ({{% resource_link "96fcb06d-9619-417f-be6b-7712f9a7b405" "PDF - 1.6 MB" %}})
+Kasting, J. F., D. H. Eggler, and S. P. Raeburn. "Mantle Redox Evolution and the Oxidation State of the Archean Atmosphere." _J Geol_ 101 (1993): 245-257. ([PDF - 1.6 MB](https://www.ncbi.nlm.nih.gov/pubmed/11537741))
 
-Kump, L. R., and H. D. Holland. "{{% resource_link "4133422f-a16d-41d1-a4c8-e8390b1c92ab" "Iron in Precambrian Rocks: Implications for the Global Oxygen Budget of the Ancient Earth" %}}." _Geochim Cosmochim Acta_ 56 (1992): 3217-3223.
+Kump, L. R., and H. D. Holland. "[Iron in Precambrian Rocks: Implications for the Global Oxygen Budget of the Ancient Earth](http://www.ncbi.nlm.nih.gov/pubmed/11537208?ordinalpos=14&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDocSum)." _Geochim Cosmochim Acta_ 56 (1992): 3217-3223.
 
 
 {{< tdclose >}}
@@ -133,39 +133,39 @@ Antiquity and origin of life
 {{< tdopen >}}
 
 
-Schopf, J. W., A. B. Kudryavtsev, D. G. Agresti, T. J. Widowiak, and A. D. Czaja. "{{% resource_link "bc158fbf-6923-4599-8073-401a78b2e23d" "Laser-Raman Imagery of Earth's Earliest Fossils" %}}." _Nature_ 416 (2002): 73-76.
+Schopf, J. W., A. B. Kudryavtsev, D. G. Agresti, T. J. Widowiak, and A. D. Czaja. "[Laser-Raman Imagery of Earth's Earliest Fossils](http://www.ncbi.nlm.nih.gov/pubmed/11882894)." _Nature_ 416 (2002): 73-76.
 
 > _Defends biogenicity of 3.5 Ga Apex microfossils_.
 
-Brasier, M. D., O. R. Green, A. P. Jephcoat, A. K. Kleppe, M. J. Van Kranendonk, J. F. Lindsay, A. Steele, and N. V. Grassineau. "{{% resource_link "55e8bf51-1836-415e-bae1-44ba5bfcd957" "Questioning the Evidence for Earth's Oldest Fossils" %}}." _Nature_ 416 (2002): 76-81.
+Brasier, M. D., O. R. Green, A. P. Jephcoat, A. K. Kleppe, M. J. Van Kranendonk, J. F. Lindsay, A. Steele, and N. V. Grassineau. "[Questioning the Evidence for Earth's Oldest Fossils](http://www.nature.com/nature/journal/v416/n6876/abs/416076a.html)." _Nature_ 416 (2002): 76-81.
 
 > _Geochemical and morphologic evidence against biogenicity of Apex microfossils_.
 
-Dalton, R. "{{% resource_link "68c780f1-817c-4402-847b-f0abec7ed3dd" "Squaring up over Ancient Life" %}}." _Nature_ 417 (2002): 782-784.
+Dalton, R. "[Squaring up over Ancient Life](http://dx.doi.org/10.1038/417782a)." _Nature_ 417 (2002): 782-784.
 
 > _Dramatized (tabloid!) report of Brasier-Schopf battle over biogenicity of Apex "fossils"_.
 
-Gee, H. "{{% resource_link "d15561d8-54b0-41a7-8a21-f647722a220d" "That's Life?" %}}" _Nature_ 416 (2002): 28.
+Gee, H. "[That's Life?](http://dx.doi.org/10.1038/416028a)" _Nature_ 416 (2002): 28.
 
 > _Further commentary on debate over Apex fossils_.
 
-Garcia-Ruiz, J. M., S. T. Hyde, A. M. Carnerup, A. G. Christy, M. J. Van Kranendonk, and N. J. Welham. "{{% resource_link "06e42b18-db60-48d9-a90d-6e68d11acff0" "Self-Assembled Silica-Carbonate Structures and Detection of Ancient Microfossils" %}}." _Science_ 302, no. 5648 (2003): 1194-1197.
+Garcia-Ruiz, J. M., S. T. Hyde, A. M. Carnerup, A. G. Christy, M. J. Van Kranendonk, and N. J. Welham. "[Self-Assembled Silica-Carbonate Structures and Detection of Ancient Microfossils](http://www.sciencemag.org/cgi/content/abstract/302/5648/1194)." _Science_ 302, no. 5648 (2003): 1194-1197.
 
 > _Inorganic salt structures synthesized that are morphologically similar to Apex "microfossils"_.
 
-van Zuilen, M. A., A. Lepland, and G. Arrhenius. "{{% resource_link "a08b5f62-0fff-4f5a-a725-56cd67e462c3" "Reassessing the Evidence for the Earliest Traces of Life" %}}." _Nature_ 418 (2002): 627-630.
+van Zuilen, M. A., A. Lepland, and G. Arrhenius. "[Reassessing the Evidence for the Earliest Traces of Life](http://www.nature.com/nature/journal/v418/n6898/abs/nature00934.html)." _Nature_ 418 (2002): 627-630.
 
 > _Molecular and isotopic evidence for cyanobacteria and oxygenic photosynthesis 2.7 Ga_.
 
-Tice, M. M., and D. R. Lowe. "{{% resource_link "e13c32a3-b36e-4a4c-a44e-9cad8ad87f6e" "Photosynthetic Microbial Mats in the 3,416-Myr-old Ocean" %}}." _Nature_ 431, no. 7008 (2004): 549-552.
+Tice, M. M., and D. R. Lowe. "[Photosynthetic Microbial Mats in the 3,416-Myr-old Ocean](http://www.nature.com/nature/journal/v431/n7008/abs/nature02888.html)." _Nature_ 431, no. 7008 (2004): 549-552.
 
 > _Evidence for photosynthetic origin of 3.4 Ga deposits_.
 
-Cody, G. D., N. Z. Boctor, T. R. Filley, R. M. Hazen, J. H. Scott, A. Sharma, and H. S. Yoder Jr. "{{% resource_link "3c5f475f-b25b-43cc-87ec-f7af1ac1a674" "Primordial Carbonylated Iron-sulfur Compounds and the Synthesis of Pyruvate" %}}." _Science_ 289 (2000): 1337-1340.
+Cody, G. D., N. Z. Boctor, T. R. Filley, R. M. Hazen, J. H. Scott, A. Sharma, and H. S. Yoder Jr. "[Primordial Carbonylated Iron-sulfur Compounds and the Synthesis of Pyruvate](http://www.sciencemag.org/cgi/content/full/289/5483/1337)." _Science_ 289 (2000): 1337-1340.
 
-Shen, Y., and D. E. Canfield. "{{% resource_link "87a700b6-5679-46d2-91ae-321f60a02932" "Isotopic Evidence for Microbial Sulphate Reduction in the Early Archaean Era" %}}." _Nature_ 410 (2001): 77-81.
+Shen, Y., and D. E. Canfield. "[Isotopic Evidence for Microbial Sulphate Reduction in the Early Archaean Era](http://www.nature.com/nature/journal/v410/n6824/abs/410077a0.html)." _Nature_ 410 (2001): 77-81.
 
-Wächtershäuser, G. "{{% resource_link "afed3983-de68-42e7-beed-0285ba28f6c1" "Life as We Don't Know it" %}}." _Science_ 289 (2000): 1307-1308.
+Wächtershäuser, G. "[Life as We Don't Know it](http://www.sciencemag.org/cgi/content/summary/289/5483/1307)." _Science_ 289 (2000): 1307-1308.
 
 
 {{< tdclose >}}
@@ -180,21 +180,21 @@ Snowball earth and pre-cenozoic glaciations
 
 **_Assigned readings_**
 
-Hoffman and Schrag. _Terra Nova_ 14, no. 3 (2002): 129-155. ({{% resource_link "4d31e551-f6c5-4352-8589-484de8973f90" "PDF - 1.2 MB" %}})
+Hoffman and Schrag. _Terra Nova_ 14, no. 3 (2002): 129-155. ([PDF - 1.2 MB](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-3121.2002.00408.x))
 
-Lubick. _{{% resource_link "d6d4ca72-fca0-48e2-870c-f62004451a8b" "Nature" %}}_ 417 (2002): 12-13.
+Lubick. _[Nature](http://dx.doi.org/10.1038/417012a)_ 417 (2002): 12-13.
 
 **_Recommended readings_**
 
-Christie-Blick, N. "{{% resource_link "fb8887a0-dfb7-4a3c-a1dd-fced2b28209d" "Pre-Pleistocene Glaciation on Earth: Implications for Climatic History of Mars" %}}." _Icarus_ 50 (1982): 423-443.
+Christie-Blick, N. "[Pre-Pleistocene Glaciation on Earth: Implications for Climatic History of Mars](http://dx.doi.org/10.1016/0019-1035(82)90133-6)." _Icarus_ 50 (1982): 423-443.
 
-Crowell, J. "{{% resource_link "cb8dbff0-b3df-4f3b-9d2b-732af42dc48a" "Gondwana Glaciation, Cyclothems, Continental Positioning, and Climate Change" %}}." _Am J Sci_ 278 (1978): 1345-1372.
+Crowell, J. "[Gondwana Glaciation, Cyclothems, Continental Positioning, and Climate Change](http://www.ajsonline.org/cgi/content/abstract/278/10/1345)." _Am J Sci_ 278 (1978): 1345-1372.
 
 Crowley, T. J. and G. R. North. _Paleoclimatology_. New York, NY: Oxford University Press, 1995, especially chapters 10-12. ISBN: 9780195105339.
 
-Edmond, J. M., M. R. Palmer, C. I. Measures, B. Grant, and R. F. Stallard. "{{% resource_link "fb7825a7-ae71-4bb7-9801-a040f0832bc0" "The Fluvial Geochemistry and Denudation of the Guyana Shield in Venezuela, Columbia, and Brazil" %}}." _Geochimica et Cosmochimica Acta_ 59 (1995): 3301-3326.
+Edmond, J. M., M. R. Palmer, C. I. Measures, B. Grant, and R. F. Stallard. "[The Fluvial Geochemistry and Denudation of the Guyana Shield in Venezuela, Columbia, and Brazil](http://dx.doi.org/10.1016/0016-7037(95)00128-M)." _Geochimica et Cosmochimica Acta_ 59 (1995): 3301-3326.
 
-Evans, D., N. Beukes, and J. Kirschvink. "{{% resource_link "fc4a9a70-8245-45ed-8c4c-a7cba69e0cc6" "Low-latitude Glaciation in the Palaeoproterozoic Era" %}}." _Nature_ 386 (1997): 262-266.
+Evans, D., N. Beukes, and J. Kirschvink. "[Low-latitude Glaciation in the Palaeoproterozoic Era](http://www.nature.com/nature/journal/v386/n6622/abs/386262a0.html)." _Nature_ 386 (1997): 262-266.
 
 Frakes, L. _Climates Throughout Geologic Time_. New York, NY: Elsevier, 1979, p. 310. ISBN: 9780444419255.
 
@@ -202,11 +202,11 @@ Frakes, L. A., J. E. Francis, and J. I. Syktus. _Climate Modes of the Phanerozoi
 
 Hambray, M., and W. Harland. _Earth's Pre-Pleistocene Glacial Record_. New York, NY: Cambridge University Press, 1981, p. 1004. ISBN: 9780521228602.
 
-Hoffman, P. F., and D. P. Schrag. "Snowball Earth." _Sci Am_ (January 2000): 68-75. ({{% resource_link "9f468cce-da96-47b8-9008-4df683120dc0" "PDF" %}})
+Hoffman, P. F., and D. P. Schrag. "Snowball Earth." _Sci Am_ (January 2000): 68-75. ([PDF](http://www.geo.arizona.edu/~reiners/geos342/HoffmanandSchrag2000.pdf))
 
-Hoffman, P. F., A. J. Kaufman, G. P. Halverson, and D. P. Schrag. "{{% resource_link "7ec07a9a-92ff-4795-83c6-423be71fe0c9" "A Neoproterozoic Snowball Earth" %}}." _Science_ 281 (1988): 1342-1346.
+Hoffman, P. F., A. J. Kaufman, G. P. Halverson, and D. P. Schrag. "[A Neoproterozoic Snowball Earth](http://www.sciencemag.org/cgi/content/abstract/sci;281/5381/1342?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=A+Neoproterozoic+Snowball+Earth&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)." _Science_ 281 (1988): 1342-1346.
 
-Meert, J., and R. van der Voo. "{{% resource_link "1c103f60-3c1b-4fa9-89ca-85827afd06dc" "The Neoproterozoic (1000-540 Ma) Glacial Intervals: No More Snowball Earth?" %}}" _Earth Planet Sci Lett_ 123 (1994): 1-13.
+Meert, J., and R. van der Voo. "[The Neoproterozoic (1000-540 Ma) Glacial Intervals: No More Snowball Earth?](http://www.sciencedirect.com/science/article/pii/0012821X9500005W)" _Earth Planet Sci Lett_ 123 (1994): 1-13.
 
 
 {{< tdclose >}}
@@ -221,21 +221,21 @@ CO{{< sub "2" >}}\-climate connection
 
 **_Assigned readings_**
 
-Veizer, J., Y. Godderis, and L. M. Francois. "{{% resource_link "514b4191-b2f9-4bfd-8959-5159747d6bcd" "Evidence for Decoupling of Atmospheric CO{{< sub \"2\" >}} and Global Climate during the Phanerozoic Eon" %}}." _Nature_ 408 (2000): 698-701.
+Veizer, J., Y. Godderis, and L. M. Francois. "[Evidence for Decoupling of Atmospheric CO{{< sub "2" >}} and Global Climate during the Phanerozoic Eon](http://www.nature.com/nature/journal/v408/n6813/abs/408698a0.html)." _Nature_ 408 (2000): 698-701.
 
 > _Questions CO{{< sub "2" >}}\-climate link b/c Phanerozoic tropical SST record doesn't agree with simple energy balance model results driven by paleo-CO{{< sub "2" >}} proxy data_.
 
-Kump, L. R. "{{% resource_link "e0eb81e2-0b38-4316-8d78-8033562f5be7" "What Drives Climate?" %}}" _Nature_ 408 (2000): 651-652.
+Kump, L. R. "[What Drives Climate?](http://dx.doi.org/10.1038/35047188)" _Nature_ 408 (2000): 651-652.
 
 > _Skeptical of Veizer results; questions SST proxy record and paleo-CO{{< sub "2" >}} proxy record_.
 
-Rothman, D. H. "{{% resource_link "5444bdb7-1ba4-44b4-89c9-6075f0933a38" "Atmospheric Carbon Dioxide Levels for the Last 500 million Years" %}}." _Proceedings of the National Academy of Sciences_ 99, no. 7 (2002): 4167-4171.
+Rothman, D. H. "[Atmospheric Carbon Dioxide Levels for the Last 500 million Years](http://www.pnas.org/content/99/7/4167.full)." _Proceedings of the National Academy of Sciences_ 99, no. 7 (2002): 4167-4171.
 
-Berner, R. A. "{{% resource_link "38e71d47-e5e0-450d-af7b-94cce2fd6625" "The Rise of Plants and their Effect on Weathering and Atmospheric CO{{< sub \"2\" >}}" %}}." _Science_ 276 (1997): 544-547.
+Berner, R. A. "[The Rise of Plants and their Effect on Weathering and Atmospheric CO{{< sub "2" >}}](http://www.sciencemag.org/cgi/content/summary/276/5312/544)." _Science_ 276 (1997): 544-547.
 
 > _Suggests evolution of rooted vascular plants caused Devonian (~400 Ma) CO{{< sub "2" >}} draw down by enhancing chemical weathering rates. Supports CO{{< sub "2" >}}\-climate link through Phanerozoic. Exception is Late Ordovician glaciation, explained by "unique paleogeographic circumstances"_.
 
-Royer, D. L., R. A. Bemer, and D. J. Beerling. "{{% resource_link "166f5a20-7ea7-4be0-ad38-db6df1c9ea47" "Phanerozoic Atmospheric CO{{< sub \"2\" >}} Change: Evaluating Geochemical and Paleobiological Approaches" %}}." _Earth-Science Reviews_ 54 (2001): 349-392.
+Royer, D. L., R. A. Bemer, and D. J. Beerling. "[Phanerozoic Atmospheric CO{{< sub "2" >}} Change: Evaluating Geochemical and Paleobiological Approaches](http://dx.doi.org/10.1016/S0014-2921(01)00199-4)." _Earth-Science Reviews_ 54 (2001): 349-392.
 
 > _Excellent review of paleo-CO{{< sub "2" >}} proxies_.
 
@@ -243,31 +243,31 @@ Crowley, T. J. "Carbon Dioxide and Phanerozoic Climate." In _Warm Climates in Ea
 
 **_Recommended readings_**
 
-Retallack, G. J. "{{% resource_link "2ae64231-2017-4201-a2d4-566545c98639" "A 300-million-year Record of Atmospheric Carbon Dioxide from Fossil Plant Cuticles" %}}." _Nature_ 411 (2001): 287-290.
+Retallack, G. J. "[A 300-million-year Record of Atmospheric Carbon Dioxide from Fossil Plant Cuticles](http://dx.doi.org/10.1038/35077041)." _Nature_ 411 (2001): 287-290.
 
 > _Stomatal indices on fossil leaves during last 300 Myr indicate that the only two periods of low CO{{< sub "2" >}} were associated with known ice ages, in support of the CO{{< sub "2" >}}\-climate link_.
 
-Royer, D. L., S. L. Wing, D. J. Beerling, D. W. Jolley, P. L. Koch, L. J. Hickey, and R. A. Berner. "{{% resource_link "76c1ef69-4cf7-440e-a647-e4793eb33cde" "Paleobotanical Evidence for Near Present-day Levels of Atmospheric CO{{< sub \"2\" >}} during Part of the Tertiary" %}}." _Science_ 292 (2001): 2310-2313.
+Royer, D. L., S. L. Wing, D. J. Beerling, D. W. Jolley, P. L. Koch, L. J. Hickey, and R. A. Berner. "[Paleobotanical Evidence for Near Present-day Levels of Atmospheric CO{{< sub "2" >}} during Part of the Tertiary](http://www.sciencemag.org/cgi/content/abstract/292/5525/2310)." _Science_ 292 (2001): 2310-2313.
 
 > _Leaf stomatal indices through "known" warm intervals (Miocene 15-17 Ma, and Paleocene/Eocene boundary (53-59 Ma) indicate **low** CO{{< sub "2" >}}, refuting CO{{< sub "2" >}}\-climate link_.
 
-Tarner, L. H., J. F. Hubert, B. P. Coffey, and D. P. McInerney. "{{% resource_link "b8897473-2ece-410c-b0ad-0ce5e3721999" "Stability of Atmospheric CO{{< sub \"2\" >}} Levels Across the Triassic/Jurassic Boundary" %}}." _Nature_ 411 (2001): 675-677.
+Tarner, L. H., J. F. Hubert, B. P. Coffey, and D. P. McInerney. "[Stability of Atmospheric CO{{< sub "2" >}} Levels Across the Triassic/Jurassic Boundary](http://www.readcube.com/articles/10.1038/35079548)." _Nature_ 411 (2001): 675-677.
 
 > _Paleosol δ{{< sup "13" >}}C data across Triassic/Jurassic boundary (208 Ma) suggests only small CO{{< sub "2" >}} increase associated w/ that mass extinction. Argue therefore that deposition of larger flood basalts at that time (volcanic events) did not cause high CO{{< sub "2" >}} and runaway greenhouse, as previously hypothesized_.
 
-Pagani, M., M. A. Arthur, and K. H. Freeman. "{{% resource_link "7842f735-e396-4118-802e-a54c4e192572" "Miocene Evolution of Atmospheric Carbon Dioxide" %}}." _Paleoceanography_ 14 (1999): 273-292.
+Pagani, M., M. A. Arthur, and K. H. Freeman. "[Miocene Evolution of Atmospheric Carbon Dioxide](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999PA900006)." _Paleoceanography_ 14 (1999): 273-292.
 
 > _Phytoplankton δ{{< sup "13" >}}C indicates low CO{{< sub "2" >}} through Miocene warm interval (~14-18 Ma) and no sharp drop associated with the expansion of the East Antarctic Sheet, refuting strong CO{{< sub "2" >}}\-climate link_.
 
-Berner, R. A. "{{% resource_link "b8260d95-8f4a-4253-b81f-b24ac4a758f6" "Atmospheric Carbon Dioxide Levels over Phanerozoic Time" %}}." _Science_ 249 (1990): 1382-1386.
+Berner, R. A. "[Atmospheric Carbon Dioxide Levels over Phanerozoic Time](http://www.sciencemag.org/cgi/content/abstract/249/4975/1382)." _Science_ 249 (1990): 1382-1386.
 
 ———. "Paleo-CO{{< sub "2" >}} and Climate." _Nature_ 358, no. 6382 (1992): 114.
 
-Freeman, K. H., and J. M. Hayes. "{{% resource_link "deaae331-e2a2-4b55-ae58-ae1a1e411689" "Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO{{< sub \"2\" >}} Levels" %}}." _Glob Biogeochem Cycles_ 6, no. 2 (1992): 185-198.
+Freeman, K. H., and J. M. Hayes. "[Fractionation of Carbon Isotopes by Ancient Phytoplankton and Estimates of Ancient CO{{< sub "2" >}} Levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/92GB00190)." _Glob Biogeochem Cycles_ 6, no. 2 (1992): 185-198.
 
-Hayes, J. M., H. Strauss, and A. J. Kaufman. "{{% resource_link "9fde0c04-7286-420f-9082-c11ef3b1018a" "The Abundance of {{< sup \"13\" >}} C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma" %}}." _Chem Geol_ 161 (1999): 103-125.
+Hayes, J. M., H. Strauss, and A. J. Kaufman. "[The Abundance of {{< sup "13" >}} C in Marine Organic Matter and Isotopic Fractionation in the Global Biogeochemical Cycle of Carbon during the Past 800 Ma](http://dx.doi.org/10.1016/S0009-2541(99)00083-2)." _Chem Geol_ 161 (1999): 103-125.
 
-Popp, B. N., R. Takigiku, J. M. Hayes, J. W. Louda, and E. W. Baker. "{{% resource_link "1eee8344-17f2-406b-ad10-a4822b29e096" "The Post-Paleozoic Chronology and Mechanisms of 13C Depletion in Primary Marine Organic Matter" %}}." _Am J Sci_ 289 (1989): 436-454.
+Popp, B. N., R. Takigiku, J. M. Hayes, J. W. Louda, and E. W. Baker. "[The Post-Paleozoic Chronology and Mechanisms of 13C Depletion in Primary Marine Organic Matter](http://www.ncbi.nlm.nih.gov/pubmed/11539778)." _Am J Sci_ 289 (1989): 436-454.
 
 
 {{< tdclose >}}
@@ -282,17 +282,17 @@ Tectonics and cenozoic Climate
 
 **_Assigned readings_**
 
-Raymo, M. E., and W. F. Ruddiman. "{{% resource_link "520d836d-1e96-447e-a15a-e40a91103c7f" "Tectonic Forcing of Late Cenozoic Climate" %}}." _Nature_ 359, no. 6391 (1992): 117-122.
+Raymo, M. E., and W. F. Ruddiman. "[Tectonic Forcing of Late Cenozoic Climate](http://www.nature.com/nature/journal/v359/n6391/abs/359117a0.html)." _Nature_ 359, no. 6391 (1992): 117-122.
 
-Edmond, J. M. "{{% resource_link "ee7f03f2-db29-41bb-a5b3-ae27591b191e" "Himalayan Tectonics, Weathering Processes, and the Strontium Isotope Record in Marine Limestones" %}}." _Science_ 258 (1992): 1594-1597.
+Edmond, J. M. "[Himalayan Tectonics, Weathering Processes, and the Strontium Isotope Record in Marine Limestones](http://www.sciencemag.org/cgi/content/abstract/258/5088/1594)." _Science_ 258 (1992): 1594-1597.
 
 **_Recommended readings_**
 
 McCauley, S., and D. DePaolo. "The Marine {{< sup "87" >}}Sr/{{< sup "86" >}}Sr and δ{{< sup "18" >}}O Records, Himalayan Alkalinity Fluxes, and Cenozoic Climate Models." In _Tectonic Uplift and Climate Change_. 1st ed. Edited by W. F. Ruddiman. New York, NY: Springer, 1997, pp. 427-467. ISBN: 9780306456428.
 
-Richter, F. M., D. B. Rowley, and D. J. DePaolo. "{{% resource_link "b79e3da5-7d37-433d-8156-e0cc07876d5a" "Sr Isotope Evolution of Seawater: the Role of Tectonics" %}}." _Earth Planet Sci Lett_ 109 (1992): 11-23.
+Richter, F. M., D. B. Rowley, and D. J. DePaolo. "[Sr Isotope Evolution of Seawater: the Role of Tectonics](http://dx.doi.org/10.1016/0012-821X(92)90070-C)." _Earth Planet Sci Lett_ 109 (1992): 11-23.
 
-Shackleton, N. J. "{{% resource_link "ef533627-a3d8-48f7-9eb7-9fb3eaa7f748" "The Carbon Isotope Record of the Ceozoic: History of Organic Carbon Burial and of Oxygen in the Ocean and Atmosphere" %}}." In _Marine Petroleum Source Rocks, Geological Society Special Publication No. 26_. Edited by J. Brooks and A. J. Fleet. 1987, pp. 423-434.
+Shackleton, N. J. "[The Carbon Isotope Record of the Ceozoic: History of Organic Carbon Burial and of Oxygen in the Ocean and Atmosphere](http://sp.lyellcollection.org/cgi/content/abstract/26/1/423)." In _Marine Petroleum Source Rocks, Geological Society Special Publication No. 26_. Edited by J. Brooks and A. J. Fleet. 1987, pp. 423-434.
 
 
 {{< tdclose >}}
@@ -305,13 +305,13 @@ Ocean carbon system
 {{< tdopen >}}
 
 
-Jorge L. Sarmiento and Nicolas Gruber. "{{% resource_link "ba22b667-38a6-4b68-8346-a0a259d796b0" "Sinks for Anthropogenic Carbon" %}}."
+Jorge L. Sarmiento and Nicolas Gruber. "[Sinks for Anthropogenic Carbon](https://doi.org/10.1063/1.1510279)."
 
-William Asher and Rik Wanninkhof. "{{% resource_link "45c3262d-c887-4da5-b77c-ac7ddc4b3d0c" "Transient Tracers and Air-Sea Gas Transfer" %}}." _J Geophys Res_ 103, no. C8 (1998): 15939-15958.
+William Asher and Rik Wanninkhof. "[Transient Tracers and Air-Sea Gas Transfer](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/98JC00379@10.1002/(ISSN)2169-9291.ATSMOP1)." _J Geophys Res_ 103, no. C8 (1998): 15939-15958.
 
-Daniel Sigman and Edward Boyle. "{{% resource_link "7930da41-055d-4937-ae7c-30504927142b" "Glacial/interglacial Variations in Atmospheric Carbon Dioxide" %}}." _Nature_ 407 (2000): 859-869.
+Daniel Sigman and Edward Boyle. "[Glacial/interglacial Variations in Atmospheric Carbon Dioxide](http://www.nature.com/nature/journal/v407/n6806/abs/407859a0.html)." _Nature_ 407 (2000): 859-869.
 
-Philip W. Boyd. "{{% resource_link "8a1d281f-5a1d-400b-b902-658b81967e79" "Ranking Geo-engineering Schemes" %}}." _Nature Geoscience_ 1 (2008): 722-724.
+Philip W. Boyd. "[Ranking Geo-engineering Schemes](http://dx.doi.org/10.1038/ngeo348)." _Nature Geoscience_ 1 (2008): 722-724.
 
 
 {{< tdclose >}}
